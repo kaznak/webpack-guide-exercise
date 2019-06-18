@@ -6,12 +6,13 @@
 nogit_*
 *_nogit
 
-# * Tools
-# ** Emacs
+# * Emacs
 *~
 \#*\#
 .\#*
 
-# ** Vi
+# * Vi
 *.swp
 
+# ** npm
+node_modules/
