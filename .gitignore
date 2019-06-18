@@ -16,3 +16,6 @@ nogit_*
 
 # ** npm
 node_modules/
+
+# ** webpack
+dist/main.js
